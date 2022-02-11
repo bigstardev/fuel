@@ -1,0 +1,19 @@
+.btn{
+    width:100%;
+    padding:8px;
+    font-size: 12px;
+    font-weight: 700;
+    height:40px;
+    margin-top: 16px;
+    cursor: pointer;
+}
+.add{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    color:#AE0000;
+}
+
+.save{
+    color:white;
+    background-color: #AE0000;
+    border:none;
+}

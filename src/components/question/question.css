@@ -1,0 +1,21 @@
+.question-body{
+    margin-top: 32px;
+    background-color: white;
+    max-width:712px;
+    padding:24px;
+    width:70%;
+    box-sizing: border-box;
+}
+.borderLine{
+     border-top:1px solid  #F5F5F1;
+   
+    width:100%;
+}
+input, label {
+    display:block;
+}
+label{
+    font-size: 12px;
+    margin-bottom:6px;
+    font-weight: 600;
+}
